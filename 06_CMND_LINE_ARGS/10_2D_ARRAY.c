@@ -1,5 +1,5 @@
 
-/*a set of words seperated by commas is given as comandline argument, as a single string.
+/*10)a set of words seperated by commas is given as comandline argument, as a single string.
   Divide the words at comma, and store them as individual strings in a two dimentional array
   and display the array.
 i/p:./a.out "hello,world,my,name,is,chaithu"
